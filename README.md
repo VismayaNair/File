@@ -1,4 +1,4 @@
-File
+## File
 # Aim:
 To write a C# program to store the student details in file using structure concept.
 
@@ -77,8 +77,9 @@ public class program
     }
 }
 ```
-Output:
+# Output:
+
 ![image](https://github.com/VismayaNair/File/assets/93427210/65127668-c6a2-4b43-8e81-b8e5d5a20949)
 
-Result:
+# Result:
 Thus a C# program to store the student details in file using structure concept is implemented successfully.
